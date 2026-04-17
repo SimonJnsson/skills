@@ -2,6 +2,8 @@
 
 A collection of agent skills that extend capabilities across planning, development, and tooling.
 
+# Below section is not relevant yet.
+
 ## Planning & Design
 
 These skills help you think through problems before writing code.
